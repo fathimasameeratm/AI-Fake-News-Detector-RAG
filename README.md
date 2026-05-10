@@ -150,3 +150,5 @@ The system generates:
 ## Author
 
 Fathima Sameera T M
+
+Note: The system relies on LLM reasoning and contextual retrieval rather than live internet verification. Predictions on recent or evolving news events may vary depending on model knowledge and retrieved context.
